@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/interactive-comments-section-vanilla-js-gBHlV4-2x7)
+- Live Site URL: [Add live site URL here](https://binarypsilocybin.github.io/interactive-comments-section/)
 
 ## My process
 
