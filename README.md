@@ -11,8 +11,6 @@ Users should be able to:
 - **FEATURE**: Instead of using the `createdAt` strings from the `data.json` file, try using timestamps and dynamically track the time since the comment or reply was posted.
 
 ### Links
-
-- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/interactive-comments-section-vanilla-js-gBHlV4-2x7)
 - Live Site URL: [Interactive Comments Section](https://rojasmart.github.io/interactive-comments-section/)
 
 ### Built with
