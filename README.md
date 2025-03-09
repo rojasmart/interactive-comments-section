@@ -1,19 +1,5 @@
-# Frontend Mentor - Interactive comments section solution
-
-This is a solution to the [Interactive comments section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-comments-section-iG1RugEG9). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [Useful resources](#useful-resources)
-
-## Overview
-
-### The challenge
+# Interactive comments section solution
+![image](https://github.com/user-attachments/assets/bbd74b6a-0d7a-442e-b56c-3ab2fd33a986)
 
 Users should be able to:
 
@@ -21,15 +7,13 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Create, Read, Update, and Delete comments and replies
 - Upvote and downvote comments
-- **Bonus**: If you're building a purely front-end project, use `localStorage` to save the current state in the browser that persists when the browser is refreshed.
-- **Bonus**: Instead of using the `createdAt` strings from the `data.json` file, try using timestamps and dynamically track the time since the comment or reply was posted.
+- **FEATURE**: If you're building a purely front-end project, use `localStorage` to save the current state in the browser that persists when the browser is refreshed.
+- **FEATURE**: Instead of using the `createdAt` strings from the `data.json` file, try using timestamps and dynamically track the time since the comment or reply was posted.
 
 ### Links
 
 - Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/interactive-comments-section-vanilla-js-gBHlV4-2x7)
 - Live Site URL: [Interactive Comments Section](https://rojasmart.github.io/interactive-comments-section/)
-
-## My process
 
 ### Built with
 
@@ -42,7 +26,3 @@ Users should be able to:
 ### What I learned
 
 I learned about callbacks and how to save data and manage data into the localStorage.
-
-### Continued development
-
-I want to practive this type of component and with frameworks such as React and as with a fullstack app connected to a database.
